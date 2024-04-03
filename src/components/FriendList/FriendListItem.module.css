@@ -1,0 +1,15 @@
+.avatar {
+    width: 150px;
+    display: block;
+margin: auto;
+    
+}
+.item {
+    list-style: none;
+    
+
+}
+.name {
+text-align: center;
+font-weight: 700;
+}

@@ -1,0 +1,18 @@
+.statistics {
+    background-color: rgba(0, 255, 255, 0.268);
+    width: 50%;
+}
+.title {
+    text-align: center;
+}
+.statsList {
+display: flex;
+flex-wrap: wrap;
+justify-content: space-around;
+list-style: none;
+padding-inline-start: 0;
+}
+.label {
+    margin-right: 30px;
+
+}
