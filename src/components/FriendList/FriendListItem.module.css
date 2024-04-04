@@ -1,7 +1,7 @@
 .avatar {
     width: 150px;
     display: block;
-margin: auto;
+margin: 20px auto;
     
 }
 .item {
@@ -10,6 +10,16 @@ margin: auto;
 
 }
 .name {
+    display: inline-block;
 text-align: center;
 font-weight: 700;
+}
+.status {
+    display: inline-block;
+   margin: 0 30px;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+   
+    background: green;
 }

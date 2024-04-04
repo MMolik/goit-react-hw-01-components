@@ -1,9 +1,9 @@
 import user from './Profile/user.json';
 import { Profile } from './Profile/Profile';
 import { Statistics } from './Statistics/Statistics';
-import data from './Statistics/data.json'
+import data from './Statistics/data.json';
 import { FriendList } from './FriendList/FriendList';
-import friends from './FriendList/friends.json'
+import friends from './FriendList/friends.json';
 import { Transactions } from './TransactionHistory/TransactionHistory';
 import transactions from './TransactionHistory/transactions.json';
 export const App = () => {
@@ -11,7 +11,7 @@ export const App = () => {
     <div
       style={{
         display: 'flex',
-        flexDirection:'column',
+        flexDirection: 'column',
         justifyContent: 'center',
         alignItems: 'center',
         fontSize: 40,
